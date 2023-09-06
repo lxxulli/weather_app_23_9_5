@@ -9,5 +9,5 @@
 - [ ㅇ ] axios를 활용하여 외부 데이터 설정
 - [] useQuery로 api에 요청
 - [] UI 제작 (styled components ghksdyd)
-- [] Helmat 설정
+- [] Helmet 설정
 - [] 배포(deploy)
