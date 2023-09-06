@@ -4,10 +4,16 @@
 
 ## TODO
 
-- [ ㅇ ] 경로 설정
-- [ ㅇ ] 외부 api 가져오기
-- [ ㅇ ] axios를 활용하여 외부 데이터 설정
-- [] useQuery로 api에 요청
+- [x] 경로 설정
+- [x] 외부 api 가져오기
+- [x] axios를 활용하여 외부 데이터 설정
+- [x] useQuery로 api에 요청
+- [x] 현재 위치
+- [x] 배포(deploy)
 - [] UI 제작 (styled components ghksdyd)
 - [] Helmet 설정
-- [] 배포(deploy)
+
+## 작업 후 재배포시
+
+1. git hub에 push 후
+2. npm run deploy
